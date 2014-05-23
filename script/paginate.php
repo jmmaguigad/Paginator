@@ -42,7 +42,7 @@ class Paginate {
  */
 			$_sqlresult,			
 /*
- * stands for the offset value
+ * stands for the all in all number of page in the menu
  */
 			$_reach = 5;	
 /*
