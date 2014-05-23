@@ -1,0 +1,4 @@
+Paginator
+=========
+
+simplified paginator class
